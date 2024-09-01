@@ -9,7 +9,7 @@ function Controller() {
 
     const [input, setInput] = useState({
         title: "Scheduled: Catch up",
-        content: "Friday, February 10, 2023 at 5:57 PM",
+        content: "Friday, February 10, 2024 at 5:57 PM",
         duration: 2000,
     });
 
